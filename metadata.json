@@ -1,0 +1,6 @@
+{
+  "name": "Maaveli: The Return",
+  "description": "An evocative Onam adventure game. Journey across Kerala, collect scattered Pookalam fragments, solve traditional puzzles, navigate the backwaters, master Chenda rhythms, and restore the Grand Pookalam to welcome King Maveli.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
